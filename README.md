@@ -16,3 +16,6 @@
 
 ### Fun
 [Emojis in RMarkdown](https://github.com/hadley/emo) (package)
+
+### Teaching Others
+[Binder](https://mybinder.org/) (tool)
