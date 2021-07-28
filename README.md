@@ -8,8 +8,8 @@
 [OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course)
 
 ### Environmental Data Science
+[Earth Lab Resources](https://www.earthdatascience.org) (web)  
 [Openscapes](https://www.openscapes.org/) (web)
-[Earth Lab Resources](https://www.earthdatascience.org) (web)
 
 ### Accessibility 
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)
