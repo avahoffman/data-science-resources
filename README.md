@@ -9,6 +9,7 @@
 
 ### Environmental Data Science
 [Openscapes](https://www.openscapes.org/) (web)
+[Earth Lab Resources](https://www.earthdatascience.org) (web)
 
 ### Accessibility 
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)
