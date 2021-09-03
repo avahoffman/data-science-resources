@@ -10,6 +10,7 @@
 ### Environmental Data Science
 [Earth Lab Resources](https://www.earthdatascience.org) (web)  
 [Openscapes](https://www.openscapes.org/) (web)
+[R for Ecology](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/?utm_source=ECOLOG+listserv&utm_medium=email&utm_campaign=cheatsheet+link) (cheatsheet)
 
 ### Accessibility 
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)
