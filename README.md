@@ -1,4 +1,4 @@
-# Data Science Resources
+# 💻📚 Data Science Resources
 *inspired by [Bradley Boehmke](https://github.com/bradleyboehmke/data-science-learning-resources)*
 
 ### General
@@ -11,6 +11,9 @@
 [Earth Lab Resources](https://www.earthdatascience.org) (web)  
 [Openscapes](https://www.openscapes.org/) (web)  
 [R for Ecology](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/?utm_source=ECOLOG+listserv&utm_medium=email&utm_campaign=cheatsheet+link) (cheatsheet)
+
+### Bioinformatics / Genomics
+[Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) (courses)
 
 ### Accessibility 
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)
