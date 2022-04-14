@@ -25,3 +25,5 @@
 
 ### Teaching Others
 [Binder](https://mybinder.org/) (tool)
+[Data Classroom](https://about.dataclassroom.com/resource-library) (web)
+[Dataspire](https://dataspire.org/building-blocks-for-data-literacy) (web)
