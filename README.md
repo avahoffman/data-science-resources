@@ -24,6 +24,6 @@
 [Emojis in RMarkdown](https://github.com/hadley/emo) (package)
 
 ### Teaching Others
-[Binder](https://mybinder.org/) (tool)
-[Data Classroom](https://about.dataclassroom.com/resource-library) (web)
-[Dataspire](https://dataspire.org/building-blocks-for-data-literacy) (web)
+[Binder](https://mybinder.org/) (tool)  
+[Data Classroom](https://about.dataclassroom.com/resource-library) (web)  
+[Dataspire](https://dataspire.org/building-blocks-for-data-literacy) (web)  
