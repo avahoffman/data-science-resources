@@ -12,7 +12,7 @@
 ### Environmental Data Science
 [Earth Lab Resources](https://www.earthdatascience.org) (web)  
 [EcoForecast (Ecological Forecasting)](https://docs.google.com/document/d/10gjLTzdTh0T_3Zc0mIBwKNpps1sRFjY4FsTKScFB2VA/edit) (resource list)  
-[Ecological Forecasting](https://ecoforecast.org/resources/educational-resources/#syllabi) (courses)
+[Ecological Forecasting](https://ecoforecast.org/resources/educational-resources/#syllabi) (courses)  
 [Openscapes](https://www.openscapes.org/) (web)  
 [R for Ecology](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/?utm_source=ECOLOG+listserv&utm_medium=email&utm_campaign=cheatsheet+link) (cheatsheet)
 
