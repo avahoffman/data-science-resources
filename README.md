@@ -32,3 +32,4 @@
 [Data Classroom](https://about.dataclassroom.com/resource-library) (web)  
 [Dataspire](https://dataspire.org/building-blocks-for-data-literacy) (web)  
 [LTER Data Sampler](https://lter.github.io/lterdatasampler/) (datasets)  
+[Teach with Wikipedia](https://wikiedu.org/teach-with-wikipedia/) (resource)  
