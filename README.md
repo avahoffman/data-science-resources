@@ -10,6 +10,7 @@
 [R for Paleolimnology (2018)](https://paleolimbot.github.io/r4paleolim/) (course)  
 
 ### Environmental Data Science
+[Data Carpentry for Biologists](https://github.com/datacarpentry/semester-biology/) (courses)  
 [Earth Lab Resources](https://www.earthdatascience.org) (web)  
 [EcoForecast (Ecological Forecasting)](https://docs.google.com/document/d/10gjLTzdTh0T_3Zc0mIBwKNpps1sRFjY4FsTKScFB2VA/edit) (resource list)  
 [Ecological Forecasting](https://ecoforecast.org/resources/educational-resources/#syllabi) (courses)  
