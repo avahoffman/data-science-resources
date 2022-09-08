@@ -5,6 +5,7 @@
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)
 
 ### R
+[Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
 [OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course)  
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (course)  
 [R for Paleolimnology (2018)](https://paleolimbot.github.io/r4paleolim/) (course)  
