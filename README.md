@@ -9,6 +9,7 @@
 [Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) (course)  
 [OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course)  
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (course)  
+[R for Epidemiology](https://www.r4epi.com/) (course)  
 [R for Paleolimnology (2018)](https://paleolimbot.github.io/r4paleolim/) (course)  
 
 ### Environmental Data Science
