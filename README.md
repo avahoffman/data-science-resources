@@ -2,7 +2,8 @@
 *inspired by [Bradley Boehmke](https://github.com/bradleyboehmke/data-science-learning-resources)*
 
 ### General
-[Advanced Data Science](http://jtleek.com/ads2020/) (course)
+[Advanced Data Science](http://jtleek.com/ads2020/) (course)  
+[Playmeans: Data Science Through Music](https://playfuldatascience.shinyapps.io/playmeans/) (app)  
 
 ### R
 [Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
