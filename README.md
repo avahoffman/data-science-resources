@@ -3,7 +3,6 @@
 
 ### General
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)  
-[Playmeans: Data Science Through Music](https://playfuldatascience.shinyapps.io/playmeans/) (app)  
 
 ### R
 [Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
@@ -12,6 +11,7 @@
 [OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course)  
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (course)  
 [R for Epidemiology](https://www.r4epi.com/) (course)  
+[R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/) (course)  
 [R for Paleolimnology (2018)](https://paleolimbot.github.io/r4paleolim/) (course)  
 
 ### Environmental Data Science
@@ -32,7 +32,8 @@
 [Inclusive Pedagogy](https://ecoforecast.org/inclusive-pedagogy-resources/) (resource list)  
 
 ### Fun
-[Emojis in RMarkdown](https://github.com/hadley/emo) (package)
+[Emojis in RMarkdown](https://github.com/hadley/emo) (package)  
+[Playmeans: Data Science Through Music](https://playfuldatascience.shinyapps.io/playmeans/) (app)  
 
 ### Teaching Others
 [Binder](https://mybinder.org/) (tool)  
