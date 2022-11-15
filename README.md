@@ -8,7 +8,8 @@
 [Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
 [Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) (course)  
 [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) (course)  
-[OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course)  
+[OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course) 
+[R for Biologists](https://ncgas.org/training/r-for-biologists-workshop.html) (course)  
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (course)  
 [R for Epidemiology](https://www.r4epi.com/) (course)  
 [R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/) (course)  
@@ -26,6 +27,7 @@
 ### Bioinformatics / Genomics  
 [Applied Population Genetics](https://dyerlab.github.io/applied_population_genetics/index.html) (course)  
 [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) (courses)  
+[Bioinformatics Interest Group](https://github.com/bigbioinformatics) (courses)  
 [Controlling Variation in RNA-seq (Mike Love)](https://github.com/mikelove/preNivolumabOnNivolumab/blob/main/preNivolumabOnNivolumab.Rmd) (Rmd)  
 
 ### Accessibility / Inclusion
