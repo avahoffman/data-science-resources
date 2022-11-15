@@ -8,7 +8,7 @@
 [Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
 [Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) (course)  
 [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) (course)  
-[OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course) 
+[OHI Introduction to Open Data Science](http://ohi-science.org/data-science-training/) (course)  
 [R for Biologists](https://ncgas.org/training/r-for-biologists-workshop.html) (course)  
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (course)  
 [R for Epidemiology](https://www.r4epi.com/) (course)  
