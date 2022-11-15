@@ -5,7 +5,7 @@
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)  
 
 ### R
-[https://adv-r.hadley.nz/](Advanced R) (course)  
+[Advanced R](https://adv-r.hadley.nz/) (course)  
 [Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
 [Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) (course)  
 [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) (course)  
