@@ -23,7 +23,8 @@
 [R for Ecology](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/?utm_source=ECOLOG+listserv&utm_medium=email&utm_campaign=cheatsheet+link) (cheatsheet)  
 [Statistics for Ecologists](https://fw8051statistics4ecologists.netlify.app/) (course)
 
-### Bioinformatics / Genomics
+### Bioinformatics / Genomics  
+[Applied Population Genetics](https://dyerlab.github.io/applied_population_genetics/index.html) (course)  
 [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) (courses)  
 [Controlling Variation in RNA-seq (Mike Love)](https://github.com/mikelove/preNivolumabOnNivolumab/blob/main/preNivolumabOnNivolumab.Rmd) (Rmd)  
 
@@ -39,6 +40,7 @@
 [Binder](https://mybinder.org/) (tool)  
 [Data Classroom](https://about.dataclassroom.com/resource-library) (web)  
 [Dataspire](https://dataspire.org/building-blocks-for-data-literacy) (web)  
+[learnr: Interactive Tutorials in R](https://pkgs.rstudio.com/learnr/index.html) (package)  
 [LTER Data Sampler](https://lter.github.io/lterdatasampler/) (datasets)  
 [Open Syllabus](https://opensyllabus.org/) (database of courses)  
 [Teach with Wikipedia](https://wikiedu.org/teach-with-wikipedia/) (resource)  
