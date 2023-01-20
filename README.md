@@ -3,6 +3,7 @@
 
 ### General
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)  
+[Stats course on regression](https://bookdown.org/ltupper/340f21_notes/) (course)  
 
 ### R
 [Advanced R](https://adv-r.hadley.nz/) (course)  
