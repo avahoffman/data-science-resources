@@ -3,6 +3,7 @@
 
 ### General
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)  
+[Data: Past, Present, and Future](https://data-ppf.github.io/) (course)  
 [Stats course on regression](https://bookdown.org/ltupper/340f21_notes/) (course)  
 
 ### R
@@ -17,6 +18,7 @@
 [R for Epidemiology](https://www.r4epi.com/) (course)  
 [R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/) (course)  
 [R for Paleolimnology (2018)](https://paleolimbot.github.io/r4paleolim/) (course)  
+[R for the Rest of Us](https://rfortherestofus.com/) (course)  
 
 ### Environmental Data Science
 [Data Carpentry for Biologists](https://github.com/datacarpentry/semester-biology/) (courses)  
