@@ -32,6 +32,7 @@
 [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) (courses)  
 [Bioinformatics Interest Group](https://github.com/bigbioinformatics) (courses)  
 [Controlling Variation in RNA-seq (Mike Love)](https://github.com/mikelove/preNivolumabOnNivolumab/blob/main/preNivolumabOnNivolumab.Rmd) (Rmd)  
+[Langmead Lab Teaching Materials](https://langmead-lab.org/teaching-materials/) (courses)  
 
 ### Accessibility / Inclusion
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)  
