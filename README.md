@@ -8,6 +8,7 @@
 
 ### R
 [Advanced R](https://adv-r.hadley.nz/) (course)  
+[Applied HPC with R](https://book-hpc.ggvy.cl/) (course)  
 [Creating Quarto Websites](https://ucsb-meds.github.io/creating-quarto-websites/) (tutorial)  
 [Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) (course)  
 [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) (course)  
