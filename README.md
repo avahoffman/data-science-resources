@@ -31,6 +31,7 @@
 [Statistics for Ecologists](https://fw8051statistics4ecologists.netlify.app/) (course)
 
 ### Bioinformatics / Genomics  
+[Applied Genomics](https://github.com/schatzlab/appliedgenomics2023) (course)  
 [Applied Population Genetics](https://dyerlab.github.io/applied_population_genetics/index.html) (course)  
 [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) (courses)  
 [Bioinformatics Interest Group](https://github.com/bigbioinformatics) (courses)  
