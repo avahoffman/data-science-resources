@@ -21,6 +21,9 @@
 [R for Paleolimnology (2018)](https://paleolimbot.github.io/r4paleolim/) (course)  
 [R for the Rest of Us](https://rfortherestofus.com/) (course)  
 
+### AI and Machine Learning  
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (book)  
+
 ### Environmental Data Science
 [Data Carpentry for Biologists](https://github.com/datacarpentry/semester-biology/) (courses)  
 [Earth Lab Resources](https://www.earthdatascience.org) (web)  
