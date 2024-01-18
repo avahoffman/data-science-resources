@@ -4,6 +4,7 @@
 ### General
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)  
 [Data: Past, Present, and Future](https://data-ppf.github.io/) (course)  
+[Statistical Programming Paradigms and Workflows](https://www.stephaniehicks.com/jhustatprogramming2023/) (course)  
 [Stats course on regression](https://bookdown.org/ltupper/340f21_notes/) (course)  
 
 ### R
@@ -45,7 +46,8 @@
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)  
 [Inclusive Pedagogy](https://ecoforecast.org/inclusive-pedagogy-resources/) (resource list)  
 
-### Fun
+### Fun  
+[aRtsy: Generative Art with R and ggplot2](https://koenderks.github.io/aRtsy/) (package)  
 [Emojis in RMarkdown](https://github.com/hadley/emo) (package)  
 [Playmeans: Data Science Through Music](https://playfuldatascience.shinyapps.io/playmeans/) (app)  
 
