@@ -42,6 +42,8 @@
 [Bioinformatics Interest Group](https://github.com/bigbioinformatics) (courses)  
 [Controlling Variation in RNA-seq (Mike Love)](https://github.com/mikelove/preNivolumabOnNivolumab/blob/main/preNivolumabOnNivolumab.Rmd) (Rmd)  
 [Langmead Lab Teaching Materials](https://langmead-lab.org/teaching-materials/) (courses)  
+[An Owner's Guide to the Human Genome:
+an introduction to human population genetics, variation and disease](https://web.stanford.edu/group/pritchardlab/HGbook.html) (book)
 
 ### Accessibility / Inclusion
 [HCL Wizard for color palettes](https://hclwizard.org/) (web)  
