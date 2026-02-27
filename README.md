@@ -3,7 +3,7 @@
 
 ### General
 [Advanced Data Science](http://jtleek.com/ads2020/) (course)  
-[Data: Past, Present, and Future](https://data-ppf.github.io/) (course)
+[Data: Past, Present, and Future](https://data-ppf.github.io/) (course)  
 [Miscellaneous code resources from Fred Hutch DaSL](https://hutchdatascience.org/code_review/more_resources.html) (list)  
 [Statistical Programming Paradigms and Workflows](https://www.stephaniehicks.com/jhustatprogramming2023/) (course)  
 [Stats course on regression](https://bookdown.org/ltupper/340f21_notes/) (course)  
